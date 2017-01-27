@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "total-pages": 22
+  },
+  "data": [
+    {
+      "id": "21539b1d-9ef1-4eda-9c77-49565b5bfb78",
+      "type": "items",
+      "attributes": {
+        "name": "Do Open-Access Articles Have a Greater Research Impact?",
+        "handle": "123456789/8871"
+      }
+    },
+    {
+      "id": "be8325f7-243b-49f4-8a4b-df2b793ff3b5",
+      "type": "items",
+      "attributes": {
+        "name": "Another Test Item",
+        "handle": "123456789/9978",
+      }
+    }
+  ],
+  "links": {
+    "self": "http://localhost:3000/api/items?page[number]=7&page[size]=2&fields[items]=name,handle",
+    "first": "http://localhost:3000/api/items?page[number]=1&page[size]=2&fields[items]=name,handle",
+    "prev": "http://localhost:3000/api/items?page[number]=6&page[size]=2&fields[items]=name,handle",
+    "next": "http://localhost:3000/api/items?page[number]=8&page[size]=2&fields[items]=name,handle",
+    "last": "http://localhost:3000/api/items?page[number]=22&page[size]=2&fields[items]=name,handle"
+  }
+}
