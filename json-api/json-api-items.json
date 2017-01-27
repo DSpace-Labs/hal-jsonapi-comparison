@@ -85,8 +85,8 @@
         },
         "bundles": {
           "links": {
-            "self": "http://localhost:3000/api/items/be8325f7-243b-49f4-8a4b-df2b793ff3b5/relationships/bundles",
-            "related": "http://localhost:3000/api/items/be8325f7-243b-49f4-8a4b-df2b793ff3b5/bundles"
+            "self": "http://localhost:3000/api/items/21539b1d-9ef1-4eda-9c77-49565b5bfb78/relationships/bundles",
+            "related": "http://localhost:3000/api/items/21539b1d-9ef1-4eda-9c77-49565b5bfb78/bundles"
           },
           "data": [
             { "type": "bundles", "id": "35e0606d-5e18-4f9c-aa61-74fc751cc3f9" },
