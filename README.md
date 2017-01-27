@@ -17,5 +17,7 @@ This repository contains a few endpoints mocked out in both HAL and JSON API to 
 	- to include the item's bundles: `include=…,bundles…`
 	- and to include the bitstreams of those bundles: `include=…,bundles.bitstreams`
 	- [response](json-api/json-api-items-included.json)
-
+- Errors:
+	- [This is a response](json-api/json-api-errors.json) that could be returned for an item submission that doesn't contain a title, but does contain a value for dc.contributor.assistant, a field that isn't defined on the server
+- 
 

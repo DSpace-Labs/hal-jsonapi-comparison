@@ -1,0 +1,14 @@
+{
+  "errors": [
+    {
+      "status": "422",
+      "source": { "pointer": "/data/attributes/metadata" },
+      "detail": "dc.title is a required field for an Item"
+    },
+    {
+      "status": "422",
+      "source": { "pointer": "/data/attributes/metadata/5/key" },
+      "detail": "The metadata field dc.contributor.assistant doesn't exist"
+    }
+  ]
+}
