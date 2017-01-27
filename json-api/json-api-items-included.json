@@ -1,0 +1,258 @@
+{
+  "data": {
+    "id": "21539b1d-9ef1-4eda-9c77-49565b5bfb78",
+    "type": "items",
+    "attributes": {
+      "name": "Do Open-Access Articles Have a Greater Research Impact?",
+      "handle": "123456789/8871",
+      "lastModified": "2016-10-14 10:41:12.886",
+      "isArchived": true,
+      "isWithdrawn": false,
+      "metadata": [
+        {
+          "key": "dc.contributor.author",
+          "value": "Antelman, Kristin",
+          "language": "en"
+        },
+        {
+          "key": "dc.date.accessioned",
+          "value": "2016-10-14T10:41:13Z",
+          "language": null
+        },
+        {
+          "key": "dc.date.available",
+          "value": "2016-10-14T10:41:13Z",
+          "language": null
+        },
+        {
+          "key": "dc.date.issued",
+          "value": "2004-09-01",
+          "language": "en"
+        },
+        {
+          "key": "dc.identifier.uri",
+          "value": "http://hdl.handle.net/123456789/8871",
+          "language": null
+        },
+        {
+          "key": "dc.description.abstract",
+          "value": "Although many authors believe that their work has a greater research impact if it is freely available, studies to demonstrate that impact are few. This study looks at articles in four disciplines at varying stages of adoption of open access—philosophy, political science, electrical and electronic engineering and mathematics—to see whether they have a greater impact as measured by citations in the ISI Web of Science database when their authors make them freely available on the Internet. The finding is that, across all four disciplines, freely available articles do have a greater research impact. Shedding light on this category of open access reveals that scholars in diverse disciplines are adopting open-access practices and being rewarded for it.",
+          "language": "en"
+        },
+        {
+          "key": "dc.publisher",
+          "value": "College & Research Libraries News",
+          "language": "en"
+        },
+        {
+          "key": "dc.subject",
+          "value": "Publishing",
+          "language": "en"
+        },
+        {
+          "key": "dc.subject",
+          "value": "Intellectual Property",
+          "language": "en"
+        },
+        {
+          "key": "dc.subject",
+          "value": "Open Access",
+          "language": "en"
+        },
+        {
+          "key": "dc.title",
+          "value": "Do Open-Access Articles Have a Greater Research Impact?",
+          "language": "en"
+        },
+        {
+          "key": "dc.type",
+          "value": "(not specified)",
+          "language": "en"
+        }
+      ]
+    },
+    "relationships": {
+      "collections": {
+        "links": {
+          "self": "http://localhost:3000/api/items/21539b1d-9ef1-4eda-9c77-49565b5bfb78/relationships/collections",
+          "related": "http://localhost:3000/api/items/21539b1d-9ef1-4eda-9c77-49565b5bfb78/collections"
+        },
+        "data": [
+          { "type": "collections", "id": "9e32a2e2-6b91-4236-a361-995ccdc14c60" },
+          { "type": "collections", "id": "598ce822-c357-46f3-ab70-63724d02d6ad" }
+        ]
+      },
+      "bundles": {
+        "links": {
+          "self": "http://localhost:3000/api/items/21539b1d-9ef1-4eda-9c77-49565b5bfb78/relationships/bundles",
+          "related": "http://localhost:3000/api/items/21539b1d-9ef1-4eda-9c77-49565b5bfb78/bundles"
+        },
+        "data": [
+          { "type": "bundles", "id": "35e0606d-5e18-4f9c-aa61-74fc751cc3f9" },
+          { "type": "bundles", "id": "a469c57a-abcf-45c3-83e4-b187ebd708fd" }
+        ]
+      }
+    }
+  },
+  "links": {
+    "self": "http://localhost:3000/api/items/21539b1d-9ef1-4eda-9c77-49565b5bfb78"
+  },
+  "included": [
+    {
+      "id": "9e32a2e2-6b91-4236-a361-995ccdc14c60",
+      "type": "collections",
+      "attributes": {
+        "name": "A Test Collection",
+        "handle": "123456789/5179"
+      },
+      "links": {
+        "self": "http://localhost:3000/api/collections/9e32a2e2-6b91-4236-a361-995ccdc14c60"
+      }
+    },
+    {
+      "id": "598ce822-c357-46f3-ab70-63724d02d6ad",
+      "type": "collections",
+      "attributes": {
+        "name": "Another Test Collection",
+        "handle": "123456789/6547"
+      },
+      "links": {
+        "self": "http://localhost:3000/api/collections/598ce822-c357-46f3-ab70-63724d02d6ad"
+      }
+    },
+    {
+      "id": "35e0606d-5e18-4f9c-aa61-74fc751cc3f9",
+      "type": "bundles",
+      "attributes": {
+        "name": "ORIGINAL",
+        "metadata": [
+          { "key": "dc.title", "value": "ORIGINAL", "language": "en" }
+        ]
+      },
+      "relationships": {
+        "items": {
+          "links": {
+            "self": "http://localhost:3000/api/bundles/35e0606d-5e18-4f9c-aa61-74fc751cc3f9/relationships/items",
+            "related": "http://localhost:3000/api/bundles/35e0606d-5e18-4f9c-aa61-74fc751cc3f9/items"
+          },
+          "data": [{ "type": "items", "id": "21539b1d-9ef1-4eda-9c77-49565b5bfb78" }]
+        },
+        "bitstreams": {
+          "links": {
+            "self": "http://localhost:3000/api/bundles/35e0606d-5e18-4f9c-aa61-74fc751cc3f9/relationships/bitstreams",
+            "related": "http://localhost:3000/api/bundles/35e0606d-5e18-4f9c-aa61-74fc751cc3f9/bitstreams"
+          },
+          "data": [{ "type": "bitstreams", "id": "43c57c2b-206f-4645-8c8f-5f10c84b09fa" }]
+        },
+        "primaryBitstream": {
+          "links": {
+            "self": "http://localhost:3000/api/bundles/35e0606d-5e18-4f9c-aa61-74fc751cc3f9/relationships/primaryBitstream",
+            "related": "http://localhost:3000/api/bundles/35e0606d-5e18-4f9c-aa61-74fc751cc3f9/primaryBitstream"
+          },
+          "data": { "type": "bitstreams", "id": "43c57c2b-206f-4645-8c8f-5f10c84b09fa" }
+        }
+      },
+      "links": {
+        "self": "http://localhost:3000/api/bundles/35e0606d-5e18-4f9c-aa61-74fc751cc3f9"
+      }
+    },
+    {
+      "id": "a469c57a-abcf-45c3-83e4-b187ebd708fd",
+      "type": "bundles",
+      "attributes": {
+        "name": "THUMBNAIL",
+        "metadata": [
+          { "key": "dc.title", "value": "THUMBNAIL", "language": "en" }
+        ]
+      },
+      "relationships": {
+        "items": {
+          "links": {
+            "self": "http://localhost:3000/api/bundles/a469c57a-abcf-45c3-83e4-b187ebd708fd/relationships/items",
+            "related": "http://localhost:3000/api/bundles/a469c57a-abcf-45c3-83e4-b187ebd708fd/items"
+          },
+          "data": [{ "type": "items", "id": "21539b1d-9ef1-4eda-9c77-49565b5bfb78" }]
+        },
+        "bitstreams": {
+          "links": {
+            "self": "http://localhost:3000/api/bundles/a469c57a-abcf-45c3-83e4-b187ebd708fd/relationships/bitstreams",
+            "related": "http://localhost:3000/api/bundles/a469c57a-abcf-45c3-83e4-b187ebd708fd/bitstreams"
+          },
+          "data": [{ "type": "bitstreams", "id": "1a013ecc-fb25-4689-a44f-f1383ad26632" }]
+        },
+        "primaryBitstream": {
+          "links": {
+            "self": "http://localhost:3000/api/bundles/a469c57a-abcf-45c3-83e4-b187ebd708fd/relationships/primaryBitstream",
+            "related": "http://localhost:3000/api/bundles/a469c57a-abcf-45c3-83e4-b187ebd708fd/primaryBitstream"
+          },
+          "data": { "type": "bitstreams", "id": "1a013ecc-fb25-4689-a44f-f1383ad26632" }
+        }
+      },
+      "links": {
+        "self": "http://localhost:3000/api/bundles/a469c57a-abcf-45c3-83e4-b187ebd708fd"
+      }
+    },
+    {
+      "id": "43c57c2b-206f-4645-8c8f-5f10c84b09fa",
+      "type": "bitstream",
+      "attributes": {
+        "name": "do_open_access_CRL.pdf",
+        "size": 636626,
+        "url": "/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa/retrieve",
+        "checksum": {
+          "value": "063dfbbbac873aa3fca479b878eccff3",
+          "algorithm": "MD5"
+        },
+        "metadata": [
+          { "key": "dc.title", "value": "do_open_access_CRL.pdf", "language": null },
+          { "key": "dc.description", "value": "Conference Paper", "language": "en" }
+        ],
+        "format": "Adobe PDF",
+        "mimetype": "application/pdf"
+      },
+      "relationships": {
+        "bundle": {
+          "links": {
+            "self": "http://localhost:3000/api/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa/relationships/bundle",
+            "related": "http://localhost:3000/api/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa/bundle"
+          },
+          "data": { "type": "bundles", "id": "35e0606d-5e18-4f9c-aa61-74fc751cc3f9" }
+        }
+      },
+      "links": {
+        "self": "http://localhost:3000/api/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa"
+      }
+    },
+    {
+      "id": "1a013ecc-fb25-4689-a44f-f1383ad26632",
+      "type": "bitstream",
+      "attributes": {
+        "name": "do_open_access_CRL.pdf.jpg",
+        "size": 41183,
+        "url": "/rest/bitstreams/1a013ecc-fb25-4689-a44f-f1383ad26632/retrieve",
+        "checksum": {
+          "value": "a8ad475e86f9645c60e13e06f1427814",
+          "algorithm": "MD5"
+        },
+        "metadata": [
+          { "key": "dc.title", "value": "do_open_access_CRL.pdf.jpg", "language": null },
+          { "key": "dc.description", "value": "Generated Thumbnail", "language": "en" }
+        ],
+        "format": "JPEG",
+        "mimetype": "image/jpeg"
+      },
+      "relationships": {
+        "bundle": {
+          "links": {
+            "self": "http://localhost:3000/api/bitstreams/1a013ecc-fb25-4689-a44f-f1383ad26632/relationships/bundle",
+            "related": "http://localhost:3000/api/bitstreams/1a013ecc-fb25-4689-a44f-f1383ad26632/bundle"
+          },
+          "data": { "type": "bundles", "id": "a469c57a-abcf-45c3-83e4-b187ebd708fd" }
+        }
+      },
+      "links": {
+        "self": "http://localhost:3000/api/bitstreams/1a013ecc-fb25-4689-a44f-f1383ad26632"
+      }
+    }
+  ]
+}
