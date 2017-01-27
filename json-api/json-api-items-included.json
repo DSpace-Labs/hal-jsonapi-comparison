@@ -95,7 +95,7 @@
     }
   },
   "links": {
-    "self": "http://localhost:3000/api/items/21539b1d-9ef1-4eda-9c77-49565b5bfb78"
+    "self": "http://localhost:3000/api/items/21539b1d-9ef1-4eda-9c77-49565b5bfb78?include=collections,bundles,bundles.bitstreams&fields[collections]=name,handle"
   },
   "included": [
     {
