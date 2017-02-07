@@ -12,6 +12,6 @@
     }
   ],
   "links": {
-    "self": "http://localhost:3000/api/items/new",
+    "self": "http://localhost:3000/api/items/new"
   }
 }
