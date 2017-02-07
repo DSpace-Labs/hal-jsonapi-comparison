@@ -12,7 +12,7 @@
                 { "href": "/items/21539b1d-9ef1-4eda-9c77-49565b5bfb78" }
              ],
              "bitstreams": [
-                {"href": "/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa"},
+                {"href": "/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa"}
              ],
              "primaryBitstream": {"href": "/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa"}
       },
@@ -29,7 +29,7 @@
             { "href": "/items/21539b1d-9ef1-4eda-9c77-49565b5bfb78" }
          ],
          "bitstreams": [
-             {"href": "/bitstreams/1a013ecc-fb25-4689-a44f-f1383ad26632"},
+             {"href": "/bitstreams/1a013ecc-fb25-4689-a44f-f1383ad26632"}
          ],
          "primaryBitstream": {"href": "/bitstreams/1a013ecc-fb25-4689-a44f-f1383ad26632"}
       },
