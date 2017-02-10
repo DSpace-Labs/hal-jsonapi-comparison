@@ -1,0 +1,47 @@
+{
+  "_links": {
+       "self": { "href": "/collections{&sort,page,size}", "templated": true },
+       "next": { "href": "/collections?page=1&size=2{&sort}", "templated": true },
+       "find": { "href": "/collections/{id}", "templated": true }
+     },
+  "_embedded": [
+    {
+      "_links": {
+           "self": { "href": "/collections/1" },
+           "collections": [
+              {"href": "/collections/2"},
+              {"href": "/collections/3"}             
+           ]
+      },
+      "id": "1",
+      "name": "Community of Scholars",
+      "handle": "123456789/1",
+      "metadata": [
+        { "key": "dc.rights", "value": "<p>© 2005-2016 JOHN DOE SOME RIGHTS RESERVED</p>", "language": null },
+        { "key": "dc.description", "value": "<p class='lead'>An introductory text dolor sit amet, consectetur adipiscing elit. Duis laoreet lorem erat, eget auctor est ultrices quis. Nullam ac tincidunt quam. In nec nisl odio. In egestas aliquam tincidunt.</p>\r\n<p>Integer vitae diam id dolor pharetra dignissim in sed enim. Vivamus pulvinar tristique sem a iaculis. Aenean ultricies dui vel facilisis laoreet. Integer porta erat eu ultrices rhoncus. Sed condimentum malesuada ex sit amet ullamcorper. Morbi a ipsum dolor. Vivamus interdum eget lacus ut fermentum.</p>", "language": null },
+        { "key": "dc.description.abstract", "value": "A collection for testing purposes", "language": null },
+        { "key": "dc.description.tableofcontents", "value": "<p>Some news sed condimentum malesuada ex sit amet ullamcorper. Morbi a ipsum dolor. Vivamus interdum eget lacus ut fermentum. Donec sed ultricies erat, nec sollicitudin mauris. Duis varius nulla quis quam vulputate, at hendrerit turpis rutrum. Integer nec facilisis sapien. Fusce fringilla malesuada lectus id pulvinar. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae</p>", "language": null }
+      ]
+    },
+    {
+      "_links": {
+           "self": { "href": "/collections/2" }
+      },
+      "id": "2",
+      "name": "Community of Art History",
+      "handle": "123456789/2",
+      "metadata": [
+        { "key": "dc.rights", "value": "<p>© 2005-2016 JOHN DOE SOME RIGHTS RESERVED</p>", "language": null },
+        { "key": "dc.description", "value": "<p class='lead'><p>This Community is under construction.  Check back soon for scholarly work on Art History!</p>", "language": null },
+        { "key": "dc.description.abstract", "value": "Collections of scholarly works from the Art History Department", "language": null },
+        { "key": "dc.description.tableofcontents", "value": "<p>This Community is under construction.  Check back soon for scholarly work on Art History!</p>", "language": null }
+      ]
+    }
+  ],
+  "page": {
+     "size" : 2,
+     "totalElements" : 5,
+     "totalPages" : 3,
+     "number" : 0
+  }
+}

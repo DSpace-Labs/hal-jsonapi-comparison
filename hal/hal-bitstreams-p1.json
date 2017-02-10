@@ -1,0 +1,115 @@
+{
+  "_links": {
+       "self": { "href": "/bitstreams{&sort,page,size}", "templated": true },
+       "next": { "href": "/bitstreams?page=2&size=2{&sort}", "templated": true },
+       "find": { "href": "/bitstreams/{id}", "templated": true }
+     },
+  "_embedded": [
+    {
+      "_links": {
+             "self": { "href": "/bitstreams/3-2-1" },
+             "bundle": { "href": "/bundles/3-2" },
+             "retrieve": {"href": "/bitstreams/3-2-1/retrieve"}
+      },
+      "id": "3-2-1",
+      "name": "scholarly-document-3.pdf.jpg",
+      "size": 636626,
+      "checksum": {
+        "value": "886743af0e9bc9ef7636caf489d5352c",
+        "algorithm": "MD5"
+      },
+      "metadata": [
+        { "key": "dc.title", "value": "scholarly-document-3.pdf.jpg", "language": null },
+        { "key": "dc.description", "value": "Generated Thumbnail", "language": "en" }
+      ],
+      "format": "JPEG",
+      "mimetype": "image/jpeg"      
+    },
+    {
+      "_links": {
+             "self": { "href": "/bitstreams/4-1-1" },
+             "bundle": { "href": "/bundles/4-1" },
+             "retrieve": {"href": "/bitstreams/4-1-1/retrieve"}
+      },
+      "id": "4-1-1",
+      "name": "scholarly-document-4.pdf",
+      "size": 836627,
+      "checksum": {
+        "value": "9dfffbcf46c67dcf8ec0ee26f8b37980",
+        "algorithm": "MD5"
+      },
+      "metadata": [
+        { "key": "dc.title", "value": "scholarly-document-4.pdf", "language": null },
+        { "key": "dc.description", "value": "Journal Article", "language": "en" }
+      ],
+      "format": "Adobe PDF",
+      "mimetype": "application/pdf"
+    },
+    {
+      "_links": {
+             "self": { "href": "/bitstreams/4-2-1" },
+             "bundle": { "href": "/bundles/4-2" },
+             "retrieve": {"href": "/bitstreams/4-2-1/retrieve"}
+      },
+      "id": "4-2-1",
+      "name": "scholarly-document-4.pdf.jpg",
+      "size": 936626,
+      "checksum": {
+        "value": "fd80614842b47363517d45730ff220f9",
+        "algorithm": "MD5"
+      },
+      "metadata": [
+        { "key": "dc.title", "value": "scholarly-document-4.pdf.jpg", "language": null },
+        { "key": "dc.description", "value": "Generated Thumbnail", "language": "en" }
+      ],
+      "format": "JPEG",
+      "mimetype": "image/jpeg"      
+    },
+    {
+      "_links": {
+             "self": { "href": "/bitstreams/5-1-1" },
+             "bundle": { "href": "/bundles/5-1" },
+             "retrieve": {"href": "/bitstreams/5-1-1/retrieve"}
+      },
+      "id": "5-1-1",
+      "name": "scholarly-document-5.pdf",
+      "size": 489627,
+      "checksum": {
+        "value": "a0b0284ba887d55b193e98fb442ee031",
+        "algorithm": "MD5"
+      },
+      "metadata": [
+        { "key": "dc.title", "value": "scholarly-document-5.pdf", "language": null },
+        { "key": "dc.description", "value": "Journal Article", "language": "en" }
+      ],
+      "format": "Adobe PDF",
+      "mimetype": "application/pdf"
+    },
+    {
+      "_links": {
+             "self": { "href": "/bitstreams/5-2-1" },
+             "bundle": { "href": "/bundles/5-2" },
+             "retrieve": {"href": "/bitstreams/5-2-1/retrieve"}
+      },
+      "id": "5-2-1",
+      "name": "scholarly-document-5.pdf.jpg",
+      "size": 96626,
+      "checksum": {
+        "value": "70be7c09b8883d8da77016ada1da5325",
+        "algorithm": "MD5"
+      },
+      "metadata": [
+        { "key": "dc.title", "value": "scholarly-document-5.pdf.jpg", "language": null },
+        { "key": "dc.description", "value": "Generated Thumbnail", "language": "en" }
+      ],
+      "format": "JPEG",
+      "mimetype": "image/jpeg"      
+    }
+  ],
+  "page": {
+     "size" : 2,
+     "totalElements" : 12,
+     "totalPages" : 3,
+     "number" : 1
+  }
+}

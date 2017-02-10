@@ -1,0 +1,48 @@
+{
+  "_links": {
+       "self": { "href": "/bundles{&sort,page,size}", "templated": true },
+       "find": { "href": "/bundles/{id}", "templated": true }
+     },
+  "_embedded": [
+    {
+      "_links": {
+             "self": { "href": "/bundles/6-1" },
+             "items": [
+                { "href": "/items/6" }
+             ],
+             "bitstreams": [
+                {"href": "/bitstreams/6-1-1"}
+             ],
+             "primaryBitstream": {"href": "/bitstreams/6-1-1"}
+      },
+      "id": "6-1",
+      "name": "ORIGINAL",
+      "metadata": [
+        { "key": "dc.title", "value": "ORIGINAL", "language": "en" }
+      ]
+    },
+    {
+      "_links": {
+         "self": { "href": "/bundles/6-2" },
+         "items": [
+            { "href": "/items/6" }
+         ],
+         "bitstreams": [
+             {"href": "/bitstreams/6-2-1"}
+         ],
+         "primaryBitstream": {"href": "/bitstreams/6-2-1"}
+      },
+      "id": "6-2",
+      "name": "THUMBNAIL",
+      "metadata": [
+        { "key": "dc.title", "value": "THUMBNAIL", "language": "en" }
+      ]
+    }
+  ],
+  "page": {
+     "size" : 2,
+     "totalElements" : 12,
+     "totalPages" : 3,
+     "number" : 2
+  }
+}

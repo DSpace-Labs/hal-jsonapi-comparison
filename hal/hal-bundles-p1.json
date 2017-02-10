@@ -1,0 +1,100 @@
+{
+  "_links": {
+       "self": { "href": "/bundles{&sort,page,size}", "templated": true },
+       "next": { "href": "/bundles?page=1&size=5{&sort}", "templated": true },
+       "find": { "href": "/bundles/{id}", "templated": true }
+     },
+  "_embedded": [
+    {
+      "_links": {
+         "self": { "href": "/bundles/3-2" },
+         "items": [
+            { "href": "/items/3" }
+         ],
+         "bitstreams": [
+             {"href": "/bitstreams/3-2-1"}
+         ],
+         "primaryBitstream": {"href": "/bitstreams/3-2-1"}
+      },
+      "id": "3-2",
+      "name": "THUMBNAIL",
+      "metadata": [
+        { "key": "dc.title", "value": "THUMBNAIL", "language": "en" }
+      ]
+    },
+    {
+      "_links": {
+             "self": { "href": "/bundles/4-1" },
+             "items": [
+                { "href": "/items/4" }
+             ],
+             "bitstreams": [
+                {"href": "/bitstreams/4-1-1"}
+             ],
+             "primaryBitstream": {"href": "/bitstreams/4-1-1"}
+      },
+      "id": "4-1",
+      "name": "ORIGINAL",
+      "metadata": [
+        { "key": "dc.title", "value": "ORIGINAL", "language": "en" }
+      ]
+    },
+    {
+      "_links": {
+         "self": { "href": "/bundles/4-2" },
+         "items": [
+            { "href": "/items/4" }
+         ],
+         "bitstreams": [
+             {"href": "/bitstreams/4-2-1"}
+         ],
+         "primaryBitstream": {"href": "/bitstreams/4-2-1"}
+      },
+      "id": "4-2",
+      "name": "THUMBNAIL",
+      "metadata": [
+        { "key": "dc.title", "value": "THUMBNAIL", "language": "en" }
+      ]
+    },
+        {
+      "_links": {
+             "self": { "href": "/bundles/5-1" },
+             "items": [
+                { "href": "/items/5" }
+             ],
+             "bitstreams": [
+                {"href": "/bitstreams/5-1-1"}
+             ],
+             "primaryBitstream": {"href": "/bitstreams/5-1-1"}
+      },
+      "id": "5-1",
+      "name": "ORIGINAL",
+      "metadata": [
+        { "key": "dc.title", "value": "ORIGINAL", "language": "en" }
+      ]
+    },
+    {
+      "_links": {
+         "self": { "href": "/bundles/5-2" },
+         "items": [
+            { "href": "/items/5" }
+         ],
+         "bitstreams": [
+             {"href": "/bitstreams/5-2-1"}
+         ],
+         "primaryBitstream": {"href": "/bitstreams/5-2-1"}
+      },
+      "id": "5-2",
+      "name": "THUMBNAIL",
+      "metadata": [
+        { "key": "dc.title", "value": "THUMBNAIL", "language": "en" }
+      ]
+    }
+  ],
+  "page": {
+     "size" : 5,
+     "totalElements" : 12,
+     "totalPages" : 3,
+     "number" : 1
+  }
+}
