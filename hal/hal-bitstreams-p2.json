@@ -7,7 +7,7 @@
     {
       "_links": {
              "self": { "href": "/bitstreams/6-1-1" },
-             "bundle": { "href": "/bundles/6-1" },
+             "bundle": { "href": "/bitstreams/6-1-1/bundle" },
              "retrieve": {"href": "/bitstreams/6-1-1/retrieve"}
       },
       "id": "6-1-1",
@@ -27,7 +27,7 @@
     {
       "_links": {
              "self": { "href": "/bitstreams/6-2-1" },
-             "bundle": { "href": "/bundles/6-2" },
+             "bundle": { "href": "/bitstreams/6-2-1/bundle" },
              "retrieve": {"href": "/bitstreams/6-2-1/retrieve"}
       },
       "id": "5-2-1",

@@ -7,10 +7,8 @@
     {
       "_links": {
            "self": { "href": "/collections/598ce822-c357-46f3-ab70-63724d02d6ad" },
-           "items": [
-             { "href": "/items/21539b1d-9ef1-4eda-9c77-49565b5bfb78" },
-             { "href": "/items/be8325f7-243b-49f4-8a4b-df2b793ff3b5" }
-           ]
+           "collections": { "href": "/collections/598ce822-c357-46f3-ab70-63724d02d6ad/collections" },
+           "items": { "href": "/items/21539b1d-9ef1-4eda-9c77-49565b5bfb78/items" }
       },
       "id": "598ce822-c357-46f3-ab70-63724d02d6ad",      
       "name": "Another Test Collection",

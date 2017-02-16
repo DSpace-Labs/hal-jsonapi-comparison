@@ -8,7 +8,7 @@
     {
       "_links": {
              "self": { "href": "/bitstreams/3-2-1" },
-             "bundle": { "href": "/bundles/3-2" },
+             "bundle": { "href": "/bitstreams/3-2-1/bundle" },
              "retrieve": {"href": "/bitstreams/3-2-1/retrieve"}
       },
       "id": "3-2-1",
@@ -28,7 +28,7 @@
     {
       "_links": {
              "self": { "href": "/bitstreams/4-1-1" },
-             "bundle": { "href": "/bundles/4-1" },
+             "bundle": { "href": "/bitstreams/4-1-1/bundle" },
              "retrieve": {"href": "/bitstreams/4-1-1/retrieve"}
       },
       "id": "4-1-1",
@@ -48,7 +48,7 @@
     {
       "_links": {
              "self": { "href": "/bitstreams/4-2-1" },
-             "bundle": { "href": "/bundles/4-2" },
+             "bundle": { "href": "/bitstreams/4-2-1/bundle" },
              "retrieve": {"href": "/bitstreams/4-2-1/retrieve"}
       },
       "id": "4-2-1",
@@ -68,7 +68,7 @@
     {
       "_links": {
              "self": { "href": "/bitstreams/5-1-1" },
-             "bundle": { "href": "/bundles/5-1" },
+             "bundle": { "href": "/bitstreams/5-1-1/bundle" },
              "retrieve": {"href": "/bitstreams/5-1-1/retrieve"}
       },
       "id": "5-1-1",
@@ -88,7 +88,7 @@
     {
       "_links": {
              "self": { "href": "/bitstreams/5-2-1" },
-             "bundle": { "href": "/bundles/5-2" },
+             "bundle": { "href": "/bitstreams/5-2-1/bundle" },
              "retrieve": {"href": "/bitstreams/5-2-1/retrieve"}
       },
       "id": "5-2-1",

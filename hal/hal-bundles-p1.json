@@ -8,13 +8,9 @@
     {
       "_links": {
          "self": { "href": "/bundles/3-2" },
-         "items": [
-            { "href": "/items/3" }
-         ],
-         "bitstreams": [
-             {"href": "/bitstreams/3-2-1"}
-         ],
-         "primaryBitstream": {"href": "/bitstreams/3-2-1"}
+         "items": { "href": "/bundles/3-2/items" },
+         "bitstreams": {"href": "/bundles/3-2/bitstreams"},
+         "primaryBitstream": {"href": "/bundles/3-2/primaryBitstreams"}
       },
       "id": "3-2",
       "name": "THUMBNAIL",
@@ -25,13 +21,9 @@
     {
       "_links": {
              "self": { "href": "/bundles/4-1" },
-             "items": [
-                { "href": "/items/4" }
-             ],
-             "bitstreams": [
-                {"href": "/bitstreams/4-1-1"}
-             ],
-             "primaryBitstream": {"href": "/bitstreams/4-1-1"}
+             "items": { "href": "/bundles/4-1/items" },
+             "bitstreams": {"href": "/bundles/4-1/bitstreams"},
+             "primaryBitstream": {"href": "/bundles/4-1/primaryBitstream"}
       },
       "id": "4-1",
       "name": "ORIGINAL",
@@ -42,13 +34,9 @@
     {
       "_links": {
          "self": { "href": "/bundles/4-2" },
-         "items": [
-            { "href": "/items/4" }
-         ],
-         "bitstreams": [
-             {"href": "/bitstreams/4-2-1"}
-         ],
-         "primaryBitstream": {"href": "/bitstreams/4-2-1"}
+         "items": { "href": "/bundles/4-2/items" },
+         "bitstreams": {"href": "/bundles/4-2/bitstreams"},
+         "primaryBitstream": {"href": "/bundles/4-2/primaryBitstreams"}
       },
       "id": "4-2",
       "name": "THUMBNAIL",
@@ -59,13 +47,9 @@
         {
       "_links": {
              "self": { "href": "/bundles/5-1" },
-             "items": [
-                { "href": "/items/5" }
-             ],
-             "bitstreams": [
-                {"href": "/bitstreams/5-1-1"}
-             ],
-             "primaryBitstream": {"href": "/bitstreams/5-1-1"}
+             "items": { "href": "/bundles/5-1/items" },
+             "bitstreams": {"href": "/bundles/5-1/bitstreams"},
+             "primaryBitstream": {"href": "/bundles/5-1/primaryBitstreams"}
       },
       "id": "5-1",
       "name": "ORIGINAL",
@@ -76,13 +60,9 @@
     {
       "_links": {
          "self": { "href": "/bundles/5-2" },
-         "items": [
-            { "href": "/items/5" }
-         ],
-         "bitstreams": [
-             {"href": "/bitstreams/5-2-1"}
-         ],
-         "primaryBitstream": {"href": "/bitstreams/5-2-1"}
+         "items": { "href": "/bundles/5-2/items" },
+         "bitstreams": {"href": "/bundles/5-2/bitstreams"},
+         "primaryBitstream": {"href": "/bundles/5-2/primaryBitstreams"}
       },
       "id": "5-2",
       "name": "THUMBNAIL",

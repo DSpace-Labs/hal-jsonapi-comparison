@@ -7,13 +7,9 @@
     {
       "_links": {
              "self": { "href": "/bundles/6-1" },
-             "items": [
-                { "href": "/items/6" }
-             ],
-             "bitstreams": [
-                {"href": "/bitstreams/6-1-1"}
-             ],
-             "primaryBitstream": {"href": "/bitstreams/6-1-1"}
+             "items":{ "href": "/bundles/6-1/items" },
+             "bitstreams": {"href": "/bundles/6-1/bitstreams"},
+             "primaryBitstream": {"href": "/bundles/6-1/primaryBitstream"}
       },
       "id": "6-1",
       "name": "ORIGINAL",
@@ -24,13 +20,9 @@
     {
       "_links": {
          "self": { "href": "/bundles/6-2" },
-         "items": [
-            { "href": "/items/6" }
-         ],
-         "bitstreams": [
-             {"href": "/bitstreams/6-2-1"}
-         ],
-         "primaryBitstream": {"href": "/bitstreams/6-2-1"}
+         "items": { "href": "/bundles/6-2/items" },
+         "bitstreams": {"href": "/bundles/6-2/bitstreams"},
+         "primaryBitstream": {"href": "/bundles/6-2/primaryBitstream"}
       },
       "id": "6-2",
       "name": "THUMBNAIL",
