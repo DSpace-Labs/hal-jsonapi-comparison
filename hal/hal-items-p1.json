@@ -8,14 +8,8 @@
     {
       "_links": {
              "self": { "href": "/items/3" },
-             "collections": [
-               { "href": "/collections/9e32a2e2-6b91-4236-a361-995ccdc14c60" }
-               
-             ],
-             "bundles": [
-               { "href": "/bundles/3-1" },
-               { "href": "/bundles/3-2" }
-             ]
+             "collections":  { "href": "/items/3/collection" },
+             "bundles":  { "href": "/items/3/bundles" }
       },    
       "id": "21539b1d-9ef1-4eda-9c77-49565b5bfb78",
       "name": "Scholarly Work III",
@@ -89,14 +83,8 @@
     {
       "_links": {
              "self": { "href": "/items/4" },
-             "collections": [
-               { "href": "/collections/9e32a2e2-6b91-4236-a361-995ccdc14c60" },
-               { "href": "/collections/598ce822-c357-46f3-ab70-63724d02d6ad" }
-             ],
-             "bundles": [
-               { "href": "4-1" },
-               { "href": "4-2" }
-             ]
+             "collections": { "href": "/items/4/collections" },
+             "bundles": { "href": "/items/4/bundles" }
       },
       "id": "be8325f7-243b-49f4-8a4b-df2b793ff3b5",
       "name": "Scholarly Work IV",

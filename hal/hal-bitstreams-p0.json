@@ -8,7 +8,7 @@
     {
       "_links": {
              "self": { "href": "/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa" },
-             "bundle": { "href": "/bundles/35e0606d-5e18-4f9c-aa61-74fc751cc3f9" },
+             "bundle": { "href": "/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa/bundle" },
              "retrieve": {"href": "/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa/retrieve"}
       },
       "id": "43c57c2b-206f-4645-8c8f-5f10c84b09fa",
@@ -28,7 +28,7 @@
     {
       "_links": {
              "self": { "href": "/bitstreams/1a013ecc-fb25-4689-a44f-f1383ad26632" },
-             "bundle": { "href": "/bundles/a469c57a-abcf-45c3-83e4-b187ebd708fd" },
+             "bundle": { "href": "/bitstreams/1a013ecc-fb25-4689-a44f-f1383ad26632/bundle" },
              "retrieve": {"href": "/rest/bitstreams/1a013ecc-fb25-4689-a44f-f1383ad26632/retrieve"}
       },
       "id": "1a013ecc-fb25-4689-a44f-f1383ad26632",
@@ -48,7 +48,7 @@
     {
       "_links": {
              "self": { "href": "/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa" },
-             "bundle": { "href": "/bundles/35e0606d-5e18-4f9c-aa61-74fc751cc3f9" },
+             "bundle": { "href": "/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa/bundle" },
              "retrieve": {"href": "/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa/retrieve"}
       },
       "id": "43c57c2b-206f-4645-8c8f-5f10c84b09fa",
@@ -68,7 +68,7 @@
     {
       "_links": {
              "self": { "href": "/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa" },
-             "bundle": { "href": "/bundles/35e0606d-5e18-4f9c-aa61-74fc751cc3f9" },
+             "bundle": { "href": "/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa/bundle" },
              "retrieve": {"href": "/bitstreams/43c57c2b-206f-4645-8c8f-5f10c84b09fa/retrieve"}
       },
       "id": "43c57c2b-206f-4645-8c8f-5f10c84b09fa",
@@ -88,7 +88,7 @@
     {
       "_links": {
              "self": { "href": "/bitstreams/3-1-1" },
-             "bundle": { "href": "/bundles/3-1" },
+             "bundle": { "href": "/bitstreams/3-1-1/bundle" },
              "retrieve": {"href": "/bitstreams/3-1-1/retrieve"}
       },
       "id": "3-1-1",

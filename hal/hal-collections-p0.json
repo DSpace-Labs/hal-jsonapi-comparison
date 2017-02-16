@@ -8,10 +8,8 @@
     {
       "_links": {
            "self": { "href": "/collections/1" },
-           "collections": [
-              {"href": "/collections/2"},
-              {"href": "/collections/3"}             
-           ]
+           "collections": {"href": "/collections/1/collections"},
+           "collections": {"href": "/collections/1/items"}
       },
       "id": "1",
       "name": "Community of Scholars",
@@ -25,7 +23,9 @@
     },
     {
       "_links": {
-           "self": { "href": "/collections/2" }
+           "self": { "href": "/collections/2" },
+           "collections": {"href": "/collections/2/collections"},
+           "collections": {"href": "/collections/2/items"}
       },
       "id": "2",
       "name": "Community of Art History",
