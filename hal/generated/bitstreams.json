@@ -1,0 +1,743 @@
+{
+  "_embedded": {
+    "bitstreams": [
+      {
+        "name": "license.txt",
+        "handle": null,
+        "type": "bitstream",
+        "metadata": [
+          {
+            "key": "dc.source",
+            "value": "Written by org.dspace.content.LicenseUtils",
+            "language": null
+          },
+          {
+            "key": "dc.title",
+            "value": "license.txt",
+            "language": null
+          }
+        ],
+        "bundleName": "LICENSE",
+        "sizeBytes": 1748,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "8a4605be74aa9ea9d79846c1fba20a33"
+        },
+        "sequenceId": null,
+        "_links": {
+          "format": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/bd30fbfc-562e-4c1b-ad51-7ccb7d1acff9/format"
+          },
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/bd30fbfc-562e-4c1b-ad51-7ccb7d1acff9"
+          }
+        },
+        "_embedded": {
+          "format": {
+            "shortDescription": "License",
+            "description": "Item-specific license agreed upon to submission",
+            "mimetype": "text/plain; charset=utf-8",
+            "supportLevel": 0,
+            "internal": true,
+            "extensions": null,
+            "type": "bitstreamformat",
+            "_links": {
+              "self": {
+                "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/2"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "license.txt",
+        "handle": null,
+        "type": "bitstream",
+        "metadata": [
+          {
+            "key": "dc.source",
+            "value": "Written by org.dspace.content.LicenseUtils",
+            "language": null
+          },
+          {
+            "key": "dc.title",
+            "value": "license.txt",
+            "language": null
+          }
+        ],
+        "bundleName": "LICENSE",
+        "sizeBytes": 1748,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "8a4605be74aa9ea9d79846c1fba20a33"
+        },
+        "sequenceId": null,
+        "_links": {
+          "format": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/cc2b206a-1d01-48dc-9a67-28975043c5ef/format"
+          },
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/cc2b206a-1d01-48dc-9a67-28975043c5ef"
+          }
+        },
+        "_embedded": {
+          "format": {
+            "shortDescription": "License",
+            "description": "Item-specific license agreed upon to submission",
+            "mimetype": "text/plain; charset=utf-8",
+            "supportLevel": 0,
+            "internal": true,
+            "extensions": null,
+            "type": "bitstreamformat",
+            "_links": {
+              "self": {
+                "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/2"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "license.txt",
+        "handle": null,
+        "type": "bitstream",
+        "metadata": [
+          {
+            "key": "dc.source",
+            "value": "Written by org.dspace.content.LicenseUtils",
+            "language": null
+          },
+          {
+            "key": "dc.title",
+            "value": "license.txt",
+            "language": null
+          }
+        ],
+        "bundleName": "LICENSE",
+        "sizeBytes": 1748,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "8a4605be74aa9ea9d79846c1fba20a33"
+        },
+        "sequenceId": null,
+        "_links": {
+          "format": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/82888b61-9630-490c-beb9-5677e0b4cd45/format"
+          },
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/82888b61-9630-490c-beb9-5677e0b4cd45"
+          }
+        },
+        "_embedded": {
+          "format": {
+            "shortDescription": "License",
+            "description": "Item-specific license agreed upon to submission",
+            "mimetype": "text/plain; charset=utf-8",
+            "supportLevel": 0,
+            "internal": true,
+            "extensions": null,
+            "type": "bitstreamformat",
+            "_links": {
+              "self": {
+                "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/2"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "license.txt",
+        "handle": null,
+        "type": "bitstream",
+        "metadata": [
+          {
+            "key": "dc.source",
+            "value": "Written by org.dspace.content.LicenseUtils",
+            "language": null
+          },
+          {
+            "key": "dc.title",
+            "value": "license.txt",
+            "language": null
+          }
+        ],
+        "bundleName": "LICENSE",
+        "sizeBytes": 1748,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "8a4605be74aa9ea9d79846c1fba20a33"
+        },
+        "sequenceId": null,
+        "_links": {
+          "format": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/6541d29e-0ae9-4ae2-82c9-cfe72b958592/format"
+          },
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/6541d29e-0ae9-4ae2-82c9-cfe72b958592"
+          }
+        },
+        "_embedded": {
+          "format": {
+            "shortDescription": "License",
+            "description": "Item-specific license agreed upon to submission",
+            "mimetype": "text/plain; charset=utf-8",
+            "supportLevel": 0,
+            "internal": true,
+            "extensions": null,
+            "type": "bitstreamformat",
+            "_links": {
+              "self": {
+                "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/2"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "license.txt",
+        "handle": null,
+        "type": "bitstream",
+        "metadata": [
+          {
+            "key": "dc.source",
+            "value": "Written by org.dspace.content.LicenseUtils",
+            "language": null
+          },
+          {
+            "key": "dc.title",
+            "value": "license.txt",
+            "language": null
+          }
+        ],
+        "bundleName": "LICENSE",
+        "sizeBytes": 1748,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "8a4605be74aa9ea9d79846c1fba20a33"
+        },
+        "sequenceId": null,
+        "_links": {
+          "format": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/e37b6552-da25-4fd6-b218-920f34baeea5/format"
+          },
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/e37b6552-da25-4fd6-b218-920f34baeea5"
+          }
+        },
+        "_embedded": {
+          "format": {
+            "shortDescription": "License",
+            "description": "Item-specific license agreed upon to submission",
+            "mimetype": "text/plain; charset=utf-8",
+            "supportLevel": 0,
+            "internal": true,
+            "extensions": null,
+            "type": "bitstreamformat",
+            "_links": {
+              "self": {
+                "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/2"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "BOLLINI ANDREA (BLLNDR80M04F924F) Rapporto 0001393.pdf",
+        "handle": null,
+        "type": "bitstream",
+        "metadata": [
+          {
+            "key": "dc.description",
+            "value": "",
+            "language": null
+          },
+          {
+            "key": "dc.source",
+            "value": "d:/install/dspace6/upload\\BOLLINI ANDREA (BLLNDR80M04F924F) Rapporto 0001393.pdf",
+            "language": null
+          },
+          {
+            "key": "dc.title",
+            "value": "BOLLINI ANDREA (BLLNDR80M04F924F) Rapporto 0001393.pdf",
+            "language": null
+          }
+        ],
+        "bundleName": "ORIGINAL",
+        "sizeBytes": 85888,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "2e0507a626c18f01d17a2adb09ea08ee"
+        },
+        "sequenceId": null,
+        "_links": {
+          "format": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/455963d7-a731-43a1-8639-4ac644420594/format"
+          },
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/455963d7-a731-43a1-8639-4ac644420594"
+          }
+        },
+        "_embedded": {
+          "format": {
+            "shortDescription": "Adobe PDF",
+            "description": "Adobe Portable Document Format",
+            "mimetype": "application/pdf",
+            "supportLevel": 0,
+            "internal": false,
+            "extensions": null,
+            "type": "bitstreamformat",
+            "_links": {
+              "self": {
+                "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/4"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "data-center-extension-la-sala-server-del-futuro.pdf",
+        "handle": null,
+        "type": "bitstream",
+        "metadata": [
+          {
+            "key": "dc.description",
+            "value": "",
+            "language": null
+          },
+          {
+            "key": "dc.source",
+            "value": "d:/install/dspace6/upload\\data-center-extension-la-sala-server-del-futuro.pdf",
+            "language": null
+          },
+          {
+            "key": "dc.title",
+            "value": "data-center-extension-la-sala-server-del-futuro.pdf",
+            "language": null
+          }
+        ],
+        "bundleName": "ORIGINAL",
+        "sizeBytes": 2676992,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "2c21d93c6563c8e4443f8f9d32883386"
+        },
+        "sequenceId": null,
+        "_links": {
+          "format": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/14d7fa5e-3be7-4359-a42d-33d9c2f0345b/format"
+          },
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/14d7fa5e-3be7-4359-a42d-33d9c2f0345b"
+          }
+        },
+        "_embedded": {
+          "format": {
+            "shortDescription": "Adobe PDF",
+            "description": "Adobe Portable Document Format",
+            "mimetype": "application/pdf",
+            "supportLevel": 0,
+            "internal": false,
+            "extensions": null,
+            "type": "bitstreamformat",
+            "_links": {
+              "self": {
+                "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/4"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Brochure_4SDL.pdf",
+        "handle": null,
+        "type": "bitstream",
+        "metadata": [
+          {
+            "key": "dc.description",
+            "value": "",
+            "language": null
+          },
+          {
+            "key": "dc.source",
+            "value": "d:/install/dspace6/upload\\Brochure_4SDL.pdf",
+            "language": null
+          },
+          {
+            "key": "dc.title",
+            "value": "Brochure_4SDL.pdf",
+            "language": null
+          }
+        ],
+        "bundleName": "ORIGINAL",
+        "sizeBytes": 485049,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "18504def109d3afa876edf2e729250ed"
+        },
+        "sequenceId": null,
+        "_links": {
+          "format": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/c38d63c2-4870-416c-8b1c-3e805ec23351/format"
+          },
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/c38d63c2-4870-416c-8b1c-3e805ec23351"
+          }
+        },
+        "_embedded": {
+          "format": {
+            "shortDescription": "Adobe PDF",
+            "description": "Adobe Portable Document Format",
+            "mimetype": "application/pdf",
+            "supportLevel": 0,
+            "internal": false,
+            "extensions": null,
+            "type": "bitstreamformat",
+            "_links": {
+              "self": {
+                "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/4"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "manuale-elitebook-840-g3.pdf",
+        "handle": null,
+        "type": "bitstream",
+        "metadata": [
+          {
+            "key": "dc.description",
+            "value": "",
+            "language": null
+          },
+          {
+            "key": "dc.source",
+            "value": "d:/install/dspace6/upload\\manuale-elitebook-840-g3.pdf",
+            "language": null
+          },
+          {
+            "key": "dc.title",
+            "value": "manuale-elitebook-840-g3.pdf",
+            "language": null
+          }
+        ],
+        "bundleName": "ORIGINAL",
+        "sizeBytes": 2256065,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "b6f243d8818bc52dd416bbf459ad5f05"
+        },
+        "sequenceId": null,
+        "_links": {
+          "format": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/5bcee473-e484-484a-b6d1-35363de4722c/format"
+          },
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/5bcee473-e484-484a-b6d1-35363de4722c"
+          }
+        },
+        "_embedded": {
+          "format": {
+            "shortDescription": "Adobe PDF",
+            "description": "Adobe Portable Document Format",
+            "mimetype": "application/pdf",
+            "supportLevel": 0,
+            "internal": false,
+            "extensions": null,
+            "type": "bitstreamformat",
+            "_links": {
+              "self": {
+                "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/4"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Brochure_4SDL.pdf.txt",
+        "handle": null,
+        "type": "bitstream",
+        "metadata": [
+          {
+            "key": "dc.description",
+            "value": "Extracted text",
+            "language": null
+          },
+          {
+            "key": "dc.source",
+            "value": "Written by FormatFilter org.dspace.app.mediafilter.PDFFilter on 2016-08-24T16:37:40Z (GMT).",
+            "language": null
+          },
+          {
+            "key": "dc.title",
+            "value": "Brochure_4SDL.pdf.txt",
+            "language": null
+          }
+        ],
+        "bundleName": "TEXT",
+        "sizeBytes": 3315,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "faf970dfbad9958e45f5e9a0b87f1ed2"
+        },
+        "sequenceId": null,
+        "_links": {
+          "format": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/7918f1ce-b87f-44e3-965e-623b688f5762/format"
+          },
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/7918f1ce-b87f-44e3-965e-623b688f5762"
+          }
+        },
+        "_embedded": {
+          "format": {
+            "shortDescription": "Text",
+            "description": "Plain Text",
+            "mimetype": "text/plain",
+            "supportLevel": 0,
+            "internal": false,
+            "extensions": null,
+            "type": "bitstreamformat",
+            "_links": {
+              "self": {
+                "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/6"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "data-center-extension-la-sala-server-del-futuro.pdf.txt",
+        "handle": null,
+        "type": "bitstream",
+        "metadata": [
+          {
+            "key": "dc.description",
+            "value": "Extracted text",
+            "language": null
+          },
+          {
+            "key": "dc.source",
+            "value": "Written by FormatFilter org.dspace.app.mediafilter.PDFFilter on 2016-08-24T16:37:33Z (GMT).",
+            "language": null
+          },
+          {
+            "key": "dc.title",
+            "value": "data-center-extension-la-sala-server-del-futuro.pdf.txt",
+            "language": null
+          }
+        ],
+        "bundleName": "TEXT",
+        "sizeBytes": 29140,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "cfebbf7a44ae74dde698b3a11c169eba"
+        },
+        "sequenceId": null,
+        "_links": {
+          "format": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/267f4faa-6dc8-4b59-99cf-a93724f671f7/format"
+          },
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/267f4faa-6dc8-4b59-99cf-a93724f671f7"
+          }
+        },
+        "_embedded": {
+          "format": {
+            "shortDescription": "Text",
+            "description": "Plain Text",
+            "mimetype": "text/plain",
+            "supportLevel": 0,
+            "internal": false,
+            "extensions": null,
+            "type": "bitstreamformat",
+            "_links": {
+              "self": {
+                "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/6"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "Brochure_4SDL.pdf.jpg",
+        "handle": null,
+        "type": "bitstream",
+        "metadata": [
+          {
+            "key": "dc.description",
+            "value": "Generated Thumbnail",
+            "language": null
+          },
+          {
+            "key": "dc.source",
+            "value": "Written by FormatFilter org.dspace.app.mediafilter.PDFBoxThumbnail on 2016-08-24T16:37:41Z (GMT).",
+            "language": null
+          },
+          {
+            "key": "dc.title",
+            "value": "Brochure_4SDL.pdf.jpg",
+            "language": null
+          }
+        ],
+        "bundleName": "THUMBNAIL",
+        "sizeBytes": 1821,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "11891374cf8ccbd84ebcec915b04f83c"
+        },
+        "sequenceId": null,
+        "_links": {
+          "format": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/b4b6e9f6-aa21-4ba3-9103-cbb7770c5221/format"
+          },
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/b4b6e9f6-aa21-4ba3-9103-cbb7770c5221"
+          }
+        },
+        "_embedded": {
+          "format": {
+            "shortDescription": "JPEG",
+            "description": "Joint Photographic Experts Group/JPEG File Interchange Format (JFIF)",
+            "mimetype": "image/jpeg",
+            "supportLevel": 0,
+            "internal": false,
+            "extensions": null,
+            "type": "bitstreamformat",
+            "_links": {
+              "self": {
+                "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/16"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "data-center-extension-la-sala-server-del-futuro.pdf.jpg",
+        "handle": null,
+        "type": "bitstream",
+        "metadata": [
+          {
+            "key": "dc.description",
+            "value": "Generated Thumbnail",
+            "language": null
+          },
+          {
+            "key": "dc.source",
+            "value": "Written by FormatFilter org.dspace.app.mediafilter.PDFBoxThumbnail on 2016-08-24T16:37:39Z (GMT).",
+            "language": null
+          },
+          {
+            "key": "dc.title",
+            "value": "data-center-extension-la-sala-server-del-futuro.pdf.jpg",
+            "language": null
+          }
+        ],
+        "bundleName": "THUMBNAIL",
+        "sizeBytes": 1754,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "6211b89dcfc4ed198567b2eb293fb575"
+        },
+        "sequenceId": null,
+        "_links": {
+          "format": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/93f6fe5b-23e7-4328-b84b-9e82caa66594/format"
+          },
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/93f6fe5b-23e7-4328-b84b-9e82caa66594"
+          }
+        },
+        "_embedded": {
+          "format": {
+            "shortDescription": "JPEG",
+            "description": "Joint Photographic Experts Group/JPEG File Interchange Format (JFIF)",
+            "mimetype": "image/jpeg",
+            "supportLevel": 0,
+            "internal": false,
+            "extensions": null,
+            "type": "bitstreamformat",
+            "_links": {
+              "self": {
+                "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/16"
+              }
+            }
+          }
+        }
+      },
+      {
+        "name": "database.png",
+        "handle": null,
+        "type": "bitstream",
+        "metadata": [
+          {
+            "key": "dc.description",
+            "value": "",
+            "language": null
+          },
+          {
+            "key": "dc.source",
+            "value": "d:/install/dspace6/upload\\database.png",
+            "language": null
+          },
+          {
+            "key": "dc.title",
+            "value": "database.png",
+            "language": null
+          }
+        ],
+        "bundleName": "ORIGINAL",
+        "sizeBytes": 7791,
+        "checkSum": {
+          "checkSumAlgorithm": "MD5",
+          "value": "52fcb838a77c7f16074126d28420db85"
+        },
+        "sequenceId": null,
+        "_links": {
+          "format": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/fe3fa9bc-5e9b-4ebd-858d-141f388fd305/format"
+          },
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams/fe3fa9bc-5e9b-4ebd-858d-141f388fd305"
+          }
+        },
+        "_embedded": {
+          "format": {
+            "shortDescription": "image/png",
+            "description": "Portable Network Graphics",
+            "mimetype": "image/png",
+            "supportLevel": 0,
+            "internal": false,
+            "extensions": null,
+            "type": "bitstreamformat",
+            "_links": {
+              "self": {
+                "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/18"
+              }
+            }
+          }
+        }
+      }
+    ]
+  },
+  "_links": {
+    "first": {
+      "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams?page=0&size=5"
+    },
+    "self": {
+      "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams"
+    },
+    "next": {
+      "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams?page=1&size=5"
+    },
+    "last": {
+      "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreams?page=2&size=5"
+    }
+  },
+  "page": {
+    "size": 5,
+    "totalElements": 14,
+    "totalPages": 3,
+    "number": 0
+  }
+}

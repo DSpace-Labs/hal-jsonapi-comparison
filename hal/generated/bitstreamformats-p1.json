@@ -1,0 +1,99 @@
+{
+  "_embedded": {
+    "bitstreamformats": [
+      {
+        "shortDescription": "Text",
+        "description": "Plain Text",
+        "mimetype": "text/plain",
+        "supportLevel": 0,
+        "internal": false,
+        "extensions": null,
+        "type": "bitstreamformat",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/6"
+          }
+        }
+      },
+      {
+        "shortDescription": "HTML",
+        "description": "Hypertext Markup Language",
+        "mimetype": "text/html",
+        "supportLevel": 0,
+        "internal": false,
+        "extensions": null,
+        "type": "bitstreamformat",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/7"
+          }
+        }
+      },
+      {
+        "shortDescription": "CSS",
+        "description": "Cascading Style Sheets",
+        "mimetype": "text/css",
+        "supportLevel": 0,
+        "internal": false,
+        "extensions": null,
+        "type": "bitstreamformat",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/8"
+          }
+        }
+      },
+      {
+        "shortDescription": "Microsoft Word",
+        "description": "Microsoft Word",
+        "mimetype": "application/msword",
+        "supportLevel": 0,
+        "internal": false,
+        "extensions": null,
+        "type": "bitstreamformat",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/9"
+          }
+        }
+      },
+      {
+        "shortDescription": "Microsoft Word XML",
+        "description": "Microsoft Word XML",
+        "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "supportLevel": 0,
+        "internal": false,
+        "extensions": null,
+        "type": "bitstreamformat",
+        "_links": {
+          "self": {
+            "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats/10"
+          }
+        }
+      }
+    ]
+  },
+  "_links": {
+    "first": {
+      "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats?page=0&size=5"
+    },
+    "prev": {
+      "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats?page=0&size=5"
+    },
+    "self": {
+      "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats"
+    },
+    "next": {
+      "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats?page=2&size=5"
+    },
+    "last": {
+      "href": "http://localhost:8080/dspace-spring-rest/api/core/bitstreamformats?page=14&size=5"
+    }
+  },
+  "page": {
+    "size": 5,
+    "totalElements": 75,
+    "totalPages": 15,
+    "number": 1
+  }
+}
