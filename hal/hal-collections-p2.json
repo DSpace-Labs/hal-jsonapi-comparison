@@ -1,0 +1,30 @@
+{
+  "_links": {
+       "self": { "href": "/collections{&sort,page,size}", "templated": true },
+       "find": { "href": "/collections/{id}", "templated": true }
+     },
+  "_embedded": [
+    {
+      "_links": {
+           "self": { "href": "/collections/598ce822-c357-46f3-ab70-63724d02d6ad" },
+           "collections": { "href": "/collections/598ce822-c357-46f3-ab70-63724d02d6ad/collections" },
+           "items": { "href": "/items/21539b1d-9ef1-4eda-9c77-49565b5bfb78/items" }
+      },
+      "id": "598ce822-c357-46f3-ab70-63724d02d6ad",      
+      "name": "Another Test Collection",
+      "handle": "123456789/6547",
+      "metadata": [
+        { "key": "dc.rights", "value": "<p>© 2005-2016 JOHN DOE SOME RIGHTS RESERVED</p>", "language": null },
+        { "key": "dc.description", "value": "<p class='lead'>Another introductory text dolor sit amet, consectetur adipiscing elit. Duis laoreet lorem erat, eget auctor est ultrices quis. Nullam ac tincidunt quam. In nec nisl odio. In egestas aliquam tincidunt.</p>\r\n<p>Integer vitae diam id dolor pharetra dignissim in sed enim. Vivamus pulvinar tristique sem a iaculis. Aenean ultricies dui vel facilisis laoreet. Integer porta erat eu ultrices rhoncus. Sed condimentum malesuada ex sit amet ullamcorper. Morbi a ipsum dolor. Vivamus interdum eget lacus ut fermentum.</p>", "language": null },
+        { "key": "dc.description.abstract", "value": "Another collection for testing purposes.  This collection shares two items with the Test Collection.", "language": null },
+        { "key": "dc.description.tableofcontents", "value": "<p>Some more news sed condimentum malesuada ex sit amet ullamcorper. Morbi a ipsum dolor. Vivamus interdum eget lacus ut fermentum. Donec sed ultricies erat, nec sollicitudin mauris. Duis varius nulla quis quam vulputate, at hendrerit turpis rutrum. Integer nec facilisis sapien. Fusce fringilla malesuada lectus id pulvinar. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae</p>", "language": null }
+      ]
+    }
+  ],
+  "page": {
+     "size" : 1,
+     "totalElements" : 5,
+     "totalPages" : 3,
+     "number" : 2
+  }
+}
