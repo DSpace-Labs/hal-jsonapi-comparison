@@ -242,7 +242,7 @@
         }
       },
       {
-        "name": "BOLLINI ANDREA (BLLNDR80M04F924F) Rapporto 0001393.pdf",
+        "name": "test.pdf",
         "handle": null,
         "type": "bitstream",
         "metadata": [
@@ -253,12 +253,12 @@
           },
           {
             "key": "dc.source",
-            "value": "d:/install/dspace6/upload\\BOLLINI ANDREA (BLLNDR80M04F924F) Rapporto 0001393.pdf",
+            "value": "d:/install/dspace6/upload\test.pdf",
             "language": null
           },
           {
             "key": "dc.title",
-            "value": "BOLLINI ANDREA (BLLNDR80M04F924F) Rapporto 0001393.pdf",
+            "value": "test.pdf",
             "language": null
           }
         ],
